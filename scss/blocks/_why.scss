@@ -1,5 +1,5 @@
 .why-wrapper {
-    @include background-cover(url(../../img/why_bg.jpg));
+    @include background-cover(url(/img/why_bg.jpg));
     padding-top: 124px;
     padding-bottom: 124px;
 
@@ -63,7 +63,7 @@
 .button {
     width: 213px;
     height: 60px;
-    background: url(../../svg/blue-rectangle.svg) left no-repeat $blue;
+    background: url(/svg/blue-rectangle.svg) left no-repeat $blue;
     border: none;
     @include aleo;
     font-weight: 400;

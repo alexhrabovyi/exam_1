@@ -1,5 +1,5 @@
 .tourists-say-wrapper {
-    @include background-cover(url(../../img/tourists-say_bg.jpg));
+    @include background-cover(url(/img/tourists-say_bg.jpg));
     padding-top: 152.5px;
     padding-bottom: 152.5px;
 
@@ -23,7 +23,7 @@
 
     &__img {
         width: 33%;
-        background: url(../../img/tourists-say_img.jpg) right top no-repeat;
+        background: url(/img/tourists-say_img.jpg) right top no-repeat;
         background-size: cover;
 
         @include media-s {

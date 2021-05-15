@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Aleo&family=Josefin+Sans:wght@300;400;700&display=swap");
 .header-wrapper {
   padding: 305px 0 120px;
-  background: url(../../img/header_bg.jpg) no-repeat left;
+  background: url(/img/header_bg.jpg) no-repeat left;
   background-size: cover;
 }
 
@@ -400,7 +400,7 @@
 }
 
 .why-wrapper {
-  background: url(../../img/why_bg.jpg) center center no-repeat;
+  background: url(/img/why_bg.jpg) center center no-repeat;
   background-size: cover;
   padding-top: 124px;
   padding-bottom: 124px;
@@ -481,7 +481,7 @@
 .button {
   width: 213px;
   height: 60px;
-  background: url(../../svg/blue-rectangle.svg) left no-repeat #5373fd;
+  background: url(/svg/blue-rectangle.svg) left no-repeat #5373fd;
   border: none;
   font-family: "Aleo", serif;
   font-weight: 400;
@@ -675,7 +675,7 @@
 .book-now-1-wrapper {
   padding-top: 228px;
   padding-bottom: 128px;
-  background: url(../../img/book-now-1_bg.jpg) center center no-repeat;
+  background: url(/img/book-now-1_bg.jpg) center center no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
@@ -729,7 +729,7 @@
 .book-now-2-wrapper {
   padding-top: 228px;
   padding-bottom: 128px;
-  background: url(../../img/book-now-2_bg.jpg) center center no-repeat;
+  background: url(/img/book-now-2_bg.jpg) center center no-repeat;
   background-size: cover;
 }
 .book-now-2-wrapper__article {
@@ -748,7 +748,7 @@
 }
 
 .tourists-say-wrapper {
-  background: url(../../img/tourists-say_bg.jpg) center center no-repeat;
+  background: url(/img/tourists-say_bg.jpg) center center no-repeat;
   background-size: cover;
   padding-top: 152.5px;
   padding-bottom: 152.5px;
@@ -788,7 +788,7 @@
 }
 .retelling-block__img {
   width: 33%;
-  background: url(../../img/tourists-say_img.jpg) right top no-repeat;
+  background: url(/img/tourists-say_img.jpg) right top no-repeat;
   background-size: cover;
 }
 @media (max-width: 768px) {
@@ -880,8 +880,8 @@
 
 @font-face {
   font-family: "icomoon";
-  src: url("../../fonts/icomoon.eot?47ai3b");
-  src: url("../../fonts/icomoon.eot?47ai3b#iefix") format("embedded-opentype"), url("../../fonts/icomoon.ttf?47ai3b") format("truetype"), url("../../fonts/icomoon.woff?47ai3b") format("woff"), url("../../fonts/icomoon.svg?47ai3b#icomoon") format("svg");
+  src: url("/fonts/icomoon.eot?47ai3b");
+  src: url("/fonts/icomoon.eot?47ai3b#iefix") format("embedded-opentype"), url("/fonts/icomoon.ttf?47ai3b") format("truetype"), url("/fonts/icomoon.woff?47ai3b") format("woff"), url("/fonts/icomoon.svg?47ai3b#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
